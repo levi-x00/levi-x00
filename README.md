@@ -1,4 +1,4 @@
-# Muhammad Pahlevi (levi)
+![image](https://github.com/levi-x00/levi-x00/assets/28472595/18f3be3f-cf97-45df-9dde-0c09dde418e0)# Muhammad Pahlevi (levi)
 
 
 <div align="center">
@@ -141,9 +141,9 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110>Vim</td>
     </tr>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://api.iconify.design/logos:aws.svg?color=%23888888"/> </td> 
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/aws-icon.svg"/></td> 
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/docker-icon.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
     </tr>
