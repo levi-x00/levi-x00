@@ -1,4 +1,4 @@
-# LEVY OMOLO (omololevy)
+# LEVY (levy)
 
 
 <div align="center">
