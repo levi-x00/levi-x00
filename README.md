@@ -134,14 +134,14 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/aws-icon.svg"/></td> 
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/docker-icon.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
+      <a href="https://grafana.com" target="_blank" rel="noreferrer"><td align="center" width=110> <img height=60 src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/> </td></a>
     </tr>
     <tr> 
       <td align="center" width=110>Google Cloud</td>
       <td align="center" width=110>AWS</td>
       <td align="center" width=110>Docker</td>
       <td align="center" width=110>Jenkins</td>
-      <td align="center" width=110>CodePen</td>
+      <td align="center" width=110>Grafana</td>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"/></td>
