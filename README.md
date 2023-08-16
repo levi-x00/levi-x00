@@ -146,8 +146,8 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110>CodePen</td>
     </tr>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://iconscout.com/icons/elasticsearch"/></td>
-      <td align="center" width=110> <img height=60 src="https://iconscout.com/icons/kibana"/></td> 
+      <td align="center" width=110> <img height=60 src="https://iconscout.com/icons/elasticsearch](https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"/></td>
+      <td align="center" width=110> <img height=60 src="https://iconscout.com/icons/kibana](https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/></td> 
     </tr>
     <tr> 
       <td align="center" width=110>Elastic</td>
