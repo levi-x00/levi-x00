@@ -24,7 +24,7 @@ Hello! Welcome to my profile.<br> *****
 <a href="https://www.linkedin.com/in/levi137/"><img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="mailto:m.r.pahlevi00@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp;
 <a href="https://twitter.com/levi_x00"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a"alt="Dev.to"/></a>&nbsp;
+<!-- <a href="https://docs.google.com/document/d/15PXlkE-0aQZxIheTUT4qcEKU6Oy2F5wPQ3AtoF8yIOY/edit?usp=sharing"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a"alt="Dev.to"/></a>&nbsp; -->
 </p><br>
                                                                                                              
 <!--<a href="https://www.hackerrank.com/levy_omolo"><img src="https://img.shields.io/badge/hackerrank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=#38B000" alt="Dev.to" /></a>&nbsp;
