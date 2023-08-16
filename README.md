@@ -226,5 +226,5 @@ Hello! Welcome to my profile.<br> *****
   
 </div>
 -->
-
+Credit by [omololevy](https://github.com/omololevy)
 ### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/levi-x00/levi-x00/) !
