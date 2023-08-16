@@ -2,21 +2,20 @@
 
 
 <div align="center">
-            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
-            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
-            <img src="https://img.icons8.com/fluency/30/000000/star.png" />
-            <img src="https://img.icons8.com/fluency/30/000000/star.png" /><img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
- </div><br>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=levi-x00&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="levi-x00" /> </p>
+<img src="https://img.icons8.com/fluency/30/000000/star.png" />
+<img src="https://img.icons8.com/fluency/30/000000/star.png" />
+<img src="https://img.icons8.com/fluency/30/000000/star.png" />
+<img src="https://img.icons8.com/fluency/30/000000/star.png" /><img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
+</div><br>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=levi-x00&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="levi-x00" /> </p>
 <!-- GREETING  -->
 <h3 align="center">
-  Hello! Welcome to my profile.<br> *****
+Hello! Welcome to my profile.<br> *****
              
 
 <p align="center">
-  <a href="https://github.com/levi-x00/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20m.r.pahlevi00@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=460&height=45&color=FFFFFF&vCenter=true&size=20"></a>
+<a href="https://github.com/levi-x00/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20m.r.pahlevi00@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=460&height=45&color=FFFFFF&vCenter=true&size=20"></a>
 </p>
 
 <div align="center"> Social and Contact Info. </div><br>
@@ -130,11 +129,8 @@
     </tr>
     </thead>
     <tr>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Git</td>
@@ -148,10 +144,9 @@
     </tr>
     <tr> 
       <td align="center" width=110>VSCode</td>
-      <td align="center" width=110>Pycharm</td>
-      <td align="center" width=110>IntelliJ</td>
       <td align="center" width=110>Vim</td>
       <td align="center" width=110>Google Cloud</td>
+      <td align="center" width=110>AWS</td>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
