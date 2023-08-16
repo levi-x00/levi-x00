@@ -32,7 +32,6 @@ Hello! Welcome to my profile.<br> *****
 <a href="https://www.researchgate.net/profile/Levy-Omolo-2"><img src="https://img.shields.io/badge/researchgate-4c334d?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;-->
 
 <!--
-<!-- BADGES -->
 <p align="center">
 <img src="https://img.shields.io/badge/Interest-Artificial Intelligence-blue"/>
 <img src="https://img.shields.io/badge/Hobby-Coding-blue" />
