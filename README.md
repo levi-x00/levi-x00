@@ -133,12 +133,14 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/kubernetes-icon.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Git</td>
       <td align="center" width=110>GitHub</td>
       <td align="center" width=110>VSCode</td>
       <td align="center" width=110>Vim</td>
+      <td align="center" width=110>Kubernetes</td>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></td>
