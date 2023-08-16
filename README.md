@@ -145,6 +145,14 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110>Jenkins</td>
       <td align="center" width=110>CodePen</td>
     </tr>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://iconscout.com/icons/elasticsearch"/></td>
+      <td align="center" width=110> <img height=60 src="https://iconscout.com/icons/kibana"/></td> 
+    </tr>
+    <tr> 
+      <td align="center" width=110>Elastic</td>
+      <td align="center" width=110>Kibana</td>
+    </tr>
   </table>
   <table>
     <thead>
