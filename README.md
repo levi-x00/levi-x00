@@ -208,8 +208,8 @@ Hello! Welcome to my profile.<br> *****
 </tr>
 </table>
 
+<!--
 ### The Pace:
-
 <div>  
 <img src="https://github-profile-trophy.vercel.app/?username=levi-x00&margin-w=15&margin-h=15" />
 
@@ -219,5 +219,6 @@ Hello! Welcome to my profile.<br> *****
   ![Snake animation](https://github.com/omololevy/omololevy/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+-->
 
 ### You like it ! Hey , give it a star <img src="https://img.icons8.com/fluency/20/000000/star.png" /> [here](https://github.com/levi-x00/levi-x00/) !
