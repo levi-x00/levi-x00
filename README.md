@@ -1,4 +1,4 @@
-![image](https://github.com/levi-x00/levi-x00/assets/28472595/18f3be3f-cf97-45df-9dde-0c09dde418e0)# Muhammad Pahlevi (levi)
+# Muhammad Pahlevi (levi)
 
 
 <div align="center">
