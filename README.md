@@ -151,15 +151,11 @@ Hello! Welcome to my profile.<br> *****
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg"/> </td>
     </tr>
     <tr> 
       <td align="center" width=110>Docker</td>
       <td align="center" width=110>Jenkins</td>
-      <td align="center" width=110>Jupyter</td>
-      <td align="center" width=110>Jira</td>
       <td align="center" width=110>CodePen</td>
     </tr>
   </table>
@@ -182,9 +178,6 @@ Hello! Welcome to my profile.<br> *****
     </tr>
   </table>
 </div>
-
-
-
 
 
 ## 📊 GitHub Statistics
