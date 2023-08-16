@@ -244,7 +244,7 @@
 </div>
 <div align="right">
   
-  ![Snake animation](https://github.com/levi-x00/levi-x00/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/omololevy/omololevy/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
