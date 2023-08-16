@@ -220,7 +220,7 @@
 
 <tr>
 <tr>
-        <th colspan="7"><a href="https://github.com/levi-x00/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20cotechlevy@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+        <th colspan="7"><a href="https://github.com/levi-x00/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20m.r.pahlevi00@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
       </tr>
 <td align="center">
 
@@ -232,7 +232,7 @@
 <td align="center">
 <p align="center">
 </p>
-            <img align="right" alt="Developer Levy Omolo" src="code.gif" width="350" height="190" />
+<img align="right" alt="Developer Levy Omolo" src="code.gif" width="350" height="190" />
 </td>
 </tr>
 </table>
