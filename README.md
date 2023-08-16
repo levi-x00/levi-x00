@@ -67,34 +67,23 @@ Hello! Welcome to my profile.<br> *****
     <tr>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
-    </tr>
-    <tr> 
-      <td align="center" width=110>Python</td>
-      <td align="center" width=110>JavaScript</td>
-      <td align="center" width=110>Typescript</td>
-      <td align="center" width=110>CSS</td>
-      <td align="center" width=110>HTML</td>
-    </tr>
-    <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
+    </tr>
     <tr> 
+      <td align="center" width=110>Python</td>
+      <td align="center" width=110>JavaScript</td>
       <td align="center" width=110>PostgreSQL</td>
       <td align="center" width=110>MySQL</td>
       <td align="center" width=110>SQLite</td>
       <td align="center" width=110>Ba$h</td>
-      <td align="center" width=110>Markdown</td>
     </tr>
   </table>
 
   <table>
-    <thead>
+<!--     <thead>
       <tr>
         <th colspan="3">Frameworks & Libraries </th>
         <th colspan="3">Agile Methodologies</th>
@@ -120,7 +109,7 @@ Hello! Welcome to my profile.<br> *****
         <td align="center" width=110>Bootstrap</td>
         <td align="center" width=110>JQuery</td>
       </tr>
-    </tr>
+    </tr> -->
   </table>
   <table>
     <thead>
