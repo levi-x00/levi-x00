@@ -137,18 +137,14 @@
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/trello/trello-plain.svg"/> </td>
     </tr>
     <tr> 
-      <td align="center" width=110>Heroku</td>
-      <td align="center" width=110>Figma</td>
       <td align="center" width=110>Git</td>
       <td align="center" width=110>GitHub</td>
-      <td align="center" width=110>Trello</td>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/> </td> 
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td> 
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> </td> 
     </tr>
     <tr> 
       <td align="center" width=110>VSCode</td>
@@ -220,7 +216,7 @@
 
 <tr>
 <tr>
-        <th colspan="7"><a href="https://github.com/levi-x00/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20m.r.pahlevi00@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
+        <th colspan="7"><a href="https://github.com/levi-x00/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Email%20me%20via%20m.r.pahlevi00@gmail.com;I%20am%20ready%20to%20work%20with%20you!;&font=Fira%20Code&center=true&width=450&height=45&color=FFFFFF&vCenter=true&size=22"></a></th>
       </tr>
 <td align="center">
 
