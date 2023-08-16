@@ -134,7 +134,7 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/aws-icon.svg"/></td> 
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/docker-icon.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/> </td>
-      <a href="https://grafana.com" target="_blank" rel="noreferrer"><td align="center" width=110> <img height=60 src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/> </td></a>
+      <td align="center" width=110> <a href="https://grafana.com" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/> </a></td>
     </tr>
     <tr> 
       <td align="center" width=110>Google Cloud</td>
