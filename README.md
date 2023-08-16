@@ -69,7 +69,6 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110>  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
     </tr>
     <tr> 
@@ -77,7 +76,6 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110>JavaScript</td>
       <td align="center" width=110>PostgreSQL</td>
       <td align="center" width=110>MySQL</td>
-      <td align="center" width=110>SQLite</td>
       <td align="center" width=110>Ba$h</td>
     </tr>
   </table>
