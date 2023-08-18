@@ -148,12 +148,14 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110> <img height=60 src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/></td>
       <td align="center" width=110> <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/>
       <td align="center" width=110> <a href="https://docs.ansible.com/index.html" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"/></a></td>
+      <td align="center" width=110> <a href="https://www.terraform.io" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"/></a></td>
     </tr>
     <tr> 
       <td align="center" width=110>Elastic</td>
       <td align="center" width=110>Kibana</td>
       <td align="center" width=110>Prometheus</td>
       <td align="center" width=110>Ansible</td>
+      <td align="center" width=110>Terraform</td>
     </tr>
   </table>
   <table>
@@ -165,13 +167,9 @@ Hello! Welcome to my profile.<br> *****
     <tr>
       <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"/> </td>
     <tr> 
       <td align="center" width=110>Windows</td>
       <td align="center" width=110>Linux</td>
-      <td align="center" width=110>Ubuntu</td>
-      <td align="center" width=110>Debian</td>
     </tr>
   </table>
 </div>
