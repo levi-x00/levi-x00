@@ -146,12 +146,14 @@ Hello! Welcome to my profile.<br> *****
     <tr>
       <td align="center" width=110> <img height=60 src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"/></td>
       <td align="center" width=110> <img height=60 src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/></td>
-      <td align="center" width=110> <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/></a></td>
+      <td align="center" width=110> <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/>
+      <td align="center" width=110> <a href="https://docs.ansible.com/index.html" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"/></a></td>
     </tr>
     <tr> 
       <td align="center" width=110>Elastic</td>
       <td align="center" width=110>Kibana</td>
       <td align="center" width=110>Prometheus</td>
+      <td align="center" width=110>Ansible</td>
     </tr>
   </table>
   <table>
