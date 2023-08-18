@@ -54,7 +54,7 @@ Hello! Welcome to my profile.<br> *****
 -->
 ## Certification Badges
 <p align="center">
-<a href="https://www.credly.com/earner/earned/badge/d8895a69-433b-48a5-b6f5-1603e41cb90f"><img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="icon" width="65" height="65"/></a>&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/d8895a69-433b-48a5-b6f5-1603e41cb90f"><img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="icon" width="100" height="100"/></a>&nbsp;
 </p><br>
 
 </h3> <br><br>
