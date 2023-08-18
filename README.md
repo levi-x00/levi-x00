@@ -163,6 +163,12 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110>Ansible</td>
       <td align="center" width=110>Terraform</td>
     </tr>
+    <tr>
+      <td align="center" width=110> <a href="https://www.serverless.com" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/serverless/serverless-icon.svg"/></a></td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>Serverless</td>
+    </tr>
   </table>
   <table>
     <thead>
