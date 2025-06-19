@@ -141,26 +141,26 @@ Hello! Welcome to my profile.<br> *****
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/aws-icon.svg"/></td> 
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/docker-icon.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/> </td>
-<!--       <td align="center" width=110> <a href="https://grafana.com" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/> </a></td> -->
+      <td align="center" width=110> <a href="https://grafana.com" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"/> </a></td>
     </tr>
     <tr> 
       <td align="center" width=110>Google Cloud</td>
       <td align="center" width=110>AWS</td>
       <td align="center" width=110>Docker</td>
       <td align="center" width=110>Jenkins</td>
-<!--       <td align="center" width=110>Grafana</td> -->
+      <td align="center" width=110>Grafana</td>
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"/></td>
       <td align="center" width=110> <img height=60 src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/></td>
-<!--       <td align="center" width=110> <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/> -->
+      <td align="center" width=110> <a href="https://prometheus.io" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"/>
       <td align="center" width=110> <a href="https://docs.ansible.com/index.html" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"/></a></td>
       <td align="center" width=110> <a href="https://www.terraform.io" target="_blank" rel="noreferrer"><img height=60 src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"/></a></td>
     </tr>
     <tr> 
       <td align="center" width=110>Elastic</td>
       <td align="center" width=110>Kibana</td>
-<!--       <td align="center" width=110>Prometheus</td> -->
+      <td align="center" width=110>Prometheus</td>
       <td align="center" width=110>Ansible</td>
       <td align="center" width=110>Terraform</td>
     </tr>
