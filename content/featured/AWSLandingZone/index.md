@@ -4,6 +4,7 @@ title: 'AWS Landing Zone'
 cover: './demo.png'
 github: 'https://github.com/levi-x00'
 external: 'https://github.com/levi-x00'
+cta: ''
 tech:
   - Terraform
   - AWS Control Tower
