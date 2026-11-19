@@ -7,7 +7,7 @@
       <stop offset="100%" stop-color="#111B26" />
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="1198" height="1240" rx="14" fill="url(#background)" stroke="#30363D" stroke-width="2" />
+  <rect x="1" y="1" width="1198" height="1530" rx="14" fill="url(#background)" stroke="#30363D" stroke-width="2" />
   <path d="M1 15C1 7.268 7.268 1 15 1H1185C1192.732 1 1199 7.268 1199 15V49H1V15Z" fill="#161B22" />
   <line x1="1" y1="49" x2="1199" y2="49" stroke="#30363D" stroke-width="2" />
   <circle cx="30" cy="25" r="7" fill="#FF5F56" />
@@ -30,8 +30,8 @@
     <text x="64" y="474" font-size="20" xml:space="preserve"><tspan fill="#79C0FF">open_to</tspan><tspan fill="#8B949E">: </tspan><tspan fill="#A5D6FF">["Freelance", "Hybrid roles", "Remote roles"]</tspan></text>
     <text x="64" y="538" font-size="21" xml:space="preserve"><tspan fill="#7EE787">$ </tspan><tspan fill="#C9D1D9">cat bio.txt</tspan></text>
     <text x="64" y="574" font-size="20" xml:space="preserve"><tspan fill="#C9D1D9">I'm a </tspan><tspan fill="#F0F6FC" font-weight="700">Senior DevOps Engineer</tspan><tspan fill="#C9D1D9"> who enjoys </tspan><tspan fill="#F0F6FC" font-weight="700">cloud and automation</tspan><tspan fill="#C9D1D9">. My work</tspan></text>
-    <text x="64" y="606" font-size="20" xml:space="preserve"><tspan fill="#C9D1D9">spans </tspan><tspan fill="#F0F6FC" font-weight="700">cloud, DevSecOps, and serverless</tspan><tspan fill="#C9D1D9">. Now I'm pivoting into </tspan><tspan fill="#F0F6FC" font-weight="700">cybersecurity</tspan><tspan fill="#C9D1D9">:</tspan></text>
-    <text x="64" y="638" font-size="20" xml:space="preserve"><tspan fill="#C9D1D9">learning to </tspan><tspan fill="#F0F6FC" font-weight="700">break what I used to build</tspan><tspan fill="#C9D1D9">. Simple beats clever, and boring beats broken.</tspan></text>
+    <text x="64" y="606" font-size="20" xml:space="preserve"><tspan fill="#C9D1D9">spans </tspan><tspan fill="#F0F6FC" font-weight="700">cloud, DevSecOps, and serverless</tspan><tspan fill="#C9D1D9">. Now I'm pivoting into </tspan><tspan fill="#F0F6FC" font-weight="700">cybersecurity</tspan></text>
+    <text x="64" y="638" font-size="20" xml:space="preserve"><tspan fill="#C9D1D9">and </tspan><tspan fill="#F0F6FC" font-weight="700">agentic AI</tspan><tspan fill="#C9D1D9">: teaching agents to </tspan><tspan fill="#F0F6FC" font-weight="700">break what I used to build</tspan><tspan fill="#C9D1D9">. Simple beats clever.</tspan></text>
     <!-- Mission section, hidden. Showing it again needs 158 units of extra height here and everything below it, in all six slice files, moved down by 158.
     <text x="64" y="696" font-size="21" xml:space="preserve"><tspan fill="#7EE787">$ </tspan><tspan fill="#C9D1D9">cat mission.txt</tspan></text>
     <text x="64" y="732" font-size="20" fill="#79C0FF">building</text>

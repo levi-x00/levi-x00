@@ -1,7 +1,7 @@
 <!--
-  The terminal is six images stacked with no gaps: terminal-top.svg, four contact cards, terminal-bottom.svg.
+  The terminal is six images stacked with no gaps: terminal-top.svg, four contact rows, terminal-bottom.svg.
   It is split because GitHub only makes a whole image clickable, never a link drawn inside one.
-  Keep the four contact cards on one line with no spaces between the tags, or the row will wrap.
+  Keep the four contact row tags concatenated with no spaces between them; each is full width, so they stack one per line.
   To change any wording, edit the matching <text> line in the SVG files.
   Still placeholder text: currently_building.
   The mission section is commented out inside terminal-top.svg.
@@ -9,7 +9,7 @@
 
 <div align="center">
 <a href="https://github.com/levi-x00"><img align="top" src="./assets/terminal-top.svg" width="100%" alt="Terminal window for Levi, Senior DevOps Engineer based in Jakarta, Indonesia. Interests: Cloud Security, DevSecOps, and Serverless. Open to freelance, hybrid, and remote roles. Toolbox: AWS Lambda, Serverless Framework, Datadog, Python, Bash, GitHub, Docker, Podman, Kubernetes, Argo CD, VS Code, Node.js, PowerShell, Terraform, Grafana, TrueWatch, GitLab, AWS CodePipeline, and AWS DevOps Agent." /></a>
-<a href="mailto:m.r.pahlevi00@gmail.com"><img align="top" src="./assets/contact-email.svg" width="25%" alt="Email: m.r.pahlevi00@gmail.com" /></a><a href="https://github.com/levi-x00"><img align="top" src="./assets/contact-phone.svg" width="25%" alt="Phone: +62 811 2299 882" /></a><a href="https://www.linkedin.com/in/levi137/"><img align="top" src="./assets/contact-linkedin.svg" width="25%" alt="LinkedIn: linkedin.com/in/levi137" /></a><a href="https://levi-x00.github.io"><img align="top" src="./assets/contact-portfolio.svg" width="25%" alt="Portfolio: levi-x00.github.io" /></a>
+<a href="mailto:m.r.pahlevi00@gmail.com"><img align="top" src="./assets/contact-email.svg" width="100%" alt="Email: m.r.pahlevi00@gmail.com" /></a><a href="https://github.com/levi-x00"><img align="top" src="./assets/contact-phone.svg" width="100%" alt="Phone: +62 811 2299 882" /></a><a href="https://www.linkedin.com/in/levi137/"><img align="top" src="./assets/contact-linkedin.svg" width="100%" alt="LinkedIn: linkedin.com/in/levi137" /></a><a href="https://levi-x00.github.io"><img align="top" src="./assets/contact-portfolio.svg" width="100%" alt="Portfolio: levi-x00.github.io" /></a>
 <a href="https://github.com/levi-x00"><img align="top" src="./assets/terminal-bottom.svg" width="100%" alt="Thanks for stopping by. Stay curious and keep building." /></a>
 </div>
 
