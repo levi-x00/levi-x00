@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 1310 1200 100" preserveAspectRatio="none" role="img">
+  <title>Portfolio: levi-x00.github.io</title>
+  <defs>
+    <linearGradient id="background" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="1532">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#111B26" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1310" width="1198" height="100" fill="url(#background)" /><path d="M1 1310V1410M1199 1310V1410" fill="none" stroke="#30363D" stroke-width="2" />
+  <g font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+    <svg x="64" y="1344" width="32" height="32" viewBox="0 0 24 24" fill="none"><g stroke="#00C2FF" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15 15 0 0 1 0 20a15 15 0 0 1 0-20z"/></g></svg>
+    <text x="112" y="1367" font-size="20" fill="#79C0FF">levi-x00.github.io</text>
+  </g>
+</svg>

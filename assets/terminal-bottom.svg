@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="122" viewBox="0 1410 1200 122" preserveAspectRatio="none" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="122" viewBox="0 1178 1200 122" preserveAspectRatio="none" role="img">
   <title>Thanks for stopping by.</title>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="background" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="1532">
       <stop offset="0%" stop-color="#0D1117" />
       <stop offset="100%" stop-color="#111B26" />
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="1198" height="1530" rx="14" fill="url(#background)" stroke="#30363D" stroke-width="2" />
+  <path d="M1 1178H1199V1285C1199 1292.732 1192.732 1299 1185 1299H15C7.268 1299 1 1292.732 1 1285Z" fill="url(#background)" /><path d="M1 1178V1285C1 1292.732 7.268 1299 15 1299H1185C1192.732 1299 1199 1292.732 1199 1285V1178" fill="none" stroke="#30363D" stroke-width="2" />
   <g font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
-    <text x="64" y="1448" font-size="20" xml:space="preserve"><tspan fill="#8B949E"># Thanks for stopping by. Stay curious and keep building.</tspan></text>
-    <text x="64" y="1492" font-size="21" fill="#7EE787">$</text>
-    <text x="90" y="1492" font-size="21" fill="#00C2FF">_<animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="1s" repeatCount="indefinite" /></text>
+    <text x="64" y="1216" font-size="20" xml:space="preserve"><tspan fill="#8B949E"># Thanks for stopping by. Stay curious and keep building.</tspan></text>
+    <text x="64" y="1260" font-size="21" fill="#7EE787">$</text>
+    <text x="90" y="1260" font-size="21" fill="#00C2FF">_<animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" calcMode="discrete" dur="1s" repeatCount="indefinite" /></text>
   </g>
 </svg>

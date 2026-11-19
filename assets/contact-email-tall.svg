@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 1010 1200 100" preserveAspectRatio="none" role="img">
+  <title>Email: m.r.pahlevi00@gmail.com</title>
+  <defs>
+    <linearGradient id="background" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="1532">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#111B26" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1010" width="1198" height="100" fill="url(#background)" /><path d="M1 1010V1110M1199 1010V1110" fill="none" stroke="#30363D" stroke-width="2" />
+  <g font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+    <svg x="64" y="1044" width="32" height="32" viewBox="0 0 24 24" fill="#EA4335"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
+    <text x="112" y="1067" font-size="20" fill="#79C0FF">m.r.pahlevi00@gmail.com</text>
+  </g>
+</svg>

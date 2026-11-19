@@ -2,17 +2,12 @@
   <title>Levi_</title>
   <desc>Terminal window for Levi, Senior DevOps Engineer in Jakarta, Indonesia. Interests: Cloud Security, DevSecOps, Serverless. Open to freelance, hybrid, and remote roles. Toolbox: AWS Lambda, Serverless, Datadog, Python, Bash, GitHub, Docker, Podman, Kubernetes, Argo CD, VS Code, Node.js, PowerShell, Terraform, Grafana, TrueWatch, GitLab, CodePipeline, DevOps Agent.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="background" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="1532">
       <stop offset="0%" stop-color="#0D1117" />
       <stop offset="100%" stop-color="#111B26" />
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="1198" height="1530" rx="14" fill="url(#background)" stroke="#30363D" stroke-width="2" />
-  <path d="M1 15C1 7.268 7.268 1 15 1H1185C1192.732 1 1199 7.268 1199 15V49H1V15Z" fill="#161B22" />
-  <line x1="1" y1="49" x2="1199" y2="49" stroke="#30363D" stroke-width="2" />
-  <circle cx="30" cy="25" r="7" fill="#FF5F56" />
-  <circle cx="54" cy="25" r="7" fill="#FFBD2E" />
-  <circle cx="78" cy="25" r="7" fill="#27C93F" />
+  <path d="M1 15C1 7.268 7.268 1 15 1H1185C1192.732 1 1199 7.268 1199 15V1010H1Z" fill="url(#background)" /><path d="M1 1010V15C1 7.268 7.268 1 15 1H1185C1192.732 1 1199 7.268 1199 15V1010" fill="none" stroke="#30363D" stroke-width="2" /><path d="M1 15C1 7.268 7.268 1 15 1H1185C1192.732 1 1199 7.268 1199 15V49H1V15Z" fill="#161B22" /><line x1="1" y1="49" x2="1199" y2="49" stroke="#30363D" stroke-width="2" /><circle cx="30" cy="25" r="7" fill="#FF5F56" /><circle cx="54" cy="25" r="7" fill="#FFBD2E" /><circle cx="78" cy="25" r="7" fill="#27C93F" />
   <g font-family="'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
     <text x="600" y="31" text-anchor="middle" fill="#8B949E" font-size="16">levi@jakarta: ~</text>
     <text x="64" y="96" font-size="21" xml:space="preserve"><tspan fill="#7EE787">$ </tspan><tspan fill="#C9D1D9">whoami</tspan></text>
